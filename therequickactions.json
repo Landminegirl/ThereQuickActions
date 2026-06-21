@@ -1,0 +1,1430 @@
+{
+    "chat_key": "Enter",
+    "input_mode": "ScanCode",
+    "focus_delay_ms": 150,
+    "submit_delay_ms": 90,
+    "type_delay_ms": 10,
+    "opacity": 0.92,
+    "slash_open_inserts_slash": true,
+    "auto_lock_last_title": "",
+    "dance_hotkeys_enabled": true,
+    "dance_hotkey_bindings": {
+        "F1": "",
+        "F2": "",
+        "F3": "",
+        "F4": "",
+        "F5": "",
+        "F6": "",
+        "F7": "",
+        "F8": "",
+        "F9": "",
+        "F10": "",
+        "F11": "",
+        "F12": "",
+        "Shift+F1": "",
+        "Shift+F2": "",
+        "Shift+F3": "",
+        "Shift+F4": "",
+        "Shift+F5": "",
+        "Shift+F6": "",
+        "Shift+F7": "",
+        "Shift+F8": "",
+        "Shift+F9": "",
+        "Shift+F10": ""
+    },
+    "giggles_options": {
+        "page_up_sleep": true,
+        "camera_functions": true,
+        "performers_mode": true,
+        "follow_avatar_name": "",
+        "follow_avatar_names": []
+    },
+    "dance_lists": [
+        {
+            "name": "Simple Party Loop",
+            "script": "'wave\n%delay=\"700\"%\n'nightfever\n%delay=\"1200\"%\n'woohoo\n%delay=\"800\"%\n'clap"
+        }
+    ],
+    "tabs": [
+        {
+            "id": "emotes",
+            "label": "Emotes",
+            "icon": "☺",
+            "commands": [
+                {
+                    "label": "aha",
+                    "command": "'aha"
+                },
+                {
+                    "label": "away",
+                    "command": "'away"
+                },
+                {
+                    "label": "brb",
+                    "command": "'brb"
+                },
+                {
+                    "label": "boo",
+                    "command": "'boo"
+                },
+                {
+                    "label": "burp",
+                    "command": "burp"
+                },
+                {
+                    "label": "bye",
+                    "command": "'bye"
+                },
+                {
+                    "label": "cash",
+                    "command": "'cash"
+                },
+                {
+                    "label": "chicken",
+                    "command": "'chicken"
+                },
+                {
+                    "label": "clap",
+                    "command": "'clap"
+                },
+                {
+                    "label": "comehere",
+                    "command": "'comehere"
+                },
+                {
+                    "label": "crickets",
+                    "command": "'crickets"
+                },
+                {
+                    "label": "cuss",
+                    "command": "'cuss"
+                },
+                {
+                    "label": "cutepoints",
+                    "command": "'cutepoints"
+                },
+                {
+                    "label": "dagger",
+                    "command": "'dagger"
+                },
+                {
+                    "label": "doh",
+                    "command": "'doh"
+                },
+                {
+                    "label": "drat",
+                    "command": "'drat"
+                },
+                {
+                    "label": "endkiss",
+                    "command": "'endkiss"
+                },
+                {
+                    "label": "flower",
+                    "command": "'flower"
+                },
+                {
+                    "label": "flowers",
+                    "command": "'flowers"
+                },
+                {
+                    "label": "forward",
+                    "command": "'forward"
+                },
+                {
+                    "label": "frown",
+                    "command": "'frown"
+                },
+                {
+                    "label": "grin",
+                    "command": "'grin"
+                },
+                {
+                    "label": "hearts",
+                    "command": "'hearts"
+                },
+                {
+                    "label": "hmmm",
+                    "command": "'hmmm"
+                },
+                {
+                    "label": "idea",
+                    "command": "'idea"
+                },
+                {
+                    "label": "kiss",
+                    "command": "'kiss"
+                },
+                {
+                    "label": "laugh",
+                    "command": "'laugh"
+                },
+                {
+                    "label": "love",
+                    "command": "'love"
+                },
+                {
+                    "label": "mad",
+                    "command": "'mad"
+                },
+                {
+                    "label": "money",
+                    "command": "'money"
+                },
+                {
+                    "label": "monkey",
+                    "command": "'monkey"
+                },
+                {
+                    "label": "no",
+                    "command": "'no"
+                },
+                {
+                    "label": "nod",
+                    "command": "'nod"
+                },
+                {
+                    "label": "paper",
+                    "command": "'paper"
+                },
+                {
+                    "label": "point",
+                    "command": "'point"
+                },
+                {
+                    "label": "rock",
+                    "command": "'rock"
+                },
+                {
+                    "label": "rolleyes",
+                    "command": "'rolleyes"
+                },
+                {
+                    "label": "scissors",
+                    "command": "'scissors"
+                },
+                {
+                    "label": "sad",
+                    "command": "'sad"
+                },
+                {
+                    "label": "shrug",
+                    "command": "'shrug"
+                },
+                {
+                    "label": "smile",
+                    "command": "'smile"
+                },
+                {
+                    "label": "snake",
+                    "command": "'snake"
+                },
+                {
+                    "label": "surprise",
+                    "command": "'surprise"
+                },
+                {
+                    "label": "swear",
+                    "command": "'swear"
+                },
+                {
+                    "label": "takemic",
+                    "command": "'takemic"
+                },
+                {
+                    "label": "td",
+                    "command": "'td"
+                },
+                {
+                    "label": "tongue",
+                    "command": "'tongue"
+                },
+                {
+                    "label": "towards",
+                    "command": "'towards"
+                },
+                {
+                    "label": "tu",
+                    "command": "'tu"
+                },
+                {
+                    "label": "wave",
+                    "command": "'wave"
+                },
+                {
+                    "label": "what",
+                    "command": "'what"
+                },
+                {
+                    "label": "what 2",
+                    "command": "''what"
+                },
+                {
+                    "label": "what 3",
+                    "command": "'''what"
+                },
+                {
+                    "label": "whatever",
+                    "command": "'whatever"
+                },
+                {
+                    "label": "welcome",
+                    "command": "'welcome"
+                },
+                {
+                    "label": "wow",
+                    "command": "'wow"
+                },
+                {
+                    "label": "wow 2",
+                    "command": "''wow"
+                },
+                {
+                    "label": "wow 3",
+                    "command": "'''wow"
+                },
+                {
+                    "label": "woohoo",
+                    "command": "'woohoo"
+                },
+                {
+                    "label": "yawn",
+                    "command": "'yawn"
+                },
+                {
+                    "label": "yes",
+                    "command": "'yes"
+                },
+                {
+                    "label": "zzz",
+                    "command": "'zzz"
+                }
+            ]
+        },
+        {
+            "id": "avatar",
+            "label": "Avatar",
+            "icon": "♙",
+            "commands": [
+                {
+                    "label": "backpose",
+                    "command": "'backpose"
+                },
+                {
+                    "label": "blowkiss",
+                    "command": "'blowkiss"
+                },
+                {
+                    "label": "bow",
+                    "command": "'bow"
+                },
+                {
+                    "label": "bluesteel",
+                    "command": "'bluesteel"
+                },
+                {
+                    "label": "blush",
+                    "command": "'blush"
+                },
+                {
+                    "label": "clap",
+                    "command": "'clap"
+                },
+                {
+                    "label": "coy",
+                    "command": "'coy"
+                },
+                {
+                    "label": "handup",
+                    "command": "'handup"
+                },
+                {
+                    "label": "hi5",
+                    "command": "'hi5"
+                },
+                {
+                    "label": "hi",
+                    "command": "'hi"
+                },
+                {
+                    "label": "hole",
+                    "command": "'hole"
+                },
+                {
+                    "label": "leftpose",
+                    "command": "'leftpose"
+                },
+                {
+                    "label": "rightpose",
+                    "command": "'rightpose"
+                },
+                {
+                    "label": "rtr",
+                    "command": "'rtr"
+                },
+                {
+                    "label": "sexy",
+                    "command": "'sexy"
+                },
+                {
+                    "label": "td",
+                    "command": "'td"
+                },
+                {
+                    "label": "tada",
+                    "command": "'tada"
+                },
+                {
+                    "label": "ttth",
+                    "command": "'ttth"
+                },
+                {
+                    "label": "wave",
+                    "command": "'wave"
+                },
+                {
+                    "label": "wink",
+                    "command": "'wink"
+                },
+                {
+                    "label": "yada",
+                    "command": "'yada"
+                },
+                {
+                    "label": "yay",
+                    "command": "'yay"
+                },
+                {
+                    "label": "yay 2",
+                    "command": "''yay"
+                },
+                {
+                    "label": "yay 3",
+                    "command": "'''yay"
+                }
+            ]
+        },
+        {
+            "id": "dance",
+            "label": "Dance",
+            "icon": "♪",
+            "commands": [
+                {
+                    "label": "nightfever",
+                    "command": "'nightfever"
+                },
+                {
+                    "label": "heyhey",
+                    "command": "'heyhey"
+                },
+                {
+                    "label": "twist",
+                    "command": "'twist"
+                },
+                {
+                    "label": "handstand",
+                    "command": "'handstand"
+                },
+                {
+                    "label": "bodywave",
+                    "command": "'bodywave"
+                },
+                {
+                    "label": "yessir",
+                    "command": "'yessir"
+                },
+                {
+                    "label": "giddyup",
+                    "command": "'giddyup"
+                },
+                {
+                    "label": "toehop",
+                    "command": "'toehop"
+                },
+                {
+                    "label": "jig",
+                    "command": "'jig"
+                },
+                {
+                    "label": "irishdance",
+                    "command": "'irishdance"
+                },
+                {
+                    "label": "patch",
+                    "command": "'patch"
+                },
+                {
+                    "label": "clucky",
+                    "command": "'clucky"
+                },
+                {
+                    "label": "chickendance",
+                    "command": "'chickendance"
+                }
+            ]
+        },
+        {
+            "id": "chat",
+            "label": "Chat",
+            "icon": "▣",
+            "commands": [
+                {
+                    "label": "rofl",
+                    "command": "rofl"
+                },
+                {
+                    "label": "lol",
+                    "command": "lol"
+                },
+                {
+                    "label": ":O",
+                    "command": ":O"
+                },
+                {
+                    "label": ":P",
+                    "command": ":P"
+                },
+                {
+                    "label": ":(",
+                    "command": ":("
+                },
+                {
+                    "label": ":)",
+                    "command": ":)"
+                },
+                {
+                    "label": "AFK",
+                    "command": "AFK"
+                },
+                {
+                    "label": "BRB",
+                    "command": "BRB"
+                },
+                {
+                    "label": "LOL",
+                    "command": "LOL"
+                }
+            ]
+        },
+        {
+            "id": "slash",
+            "label": "Slash",
+            "icon": "/",
+            "commands": [
+                {
+                    "label": "/wave",
+                    "command": "/wave"
+                },
+                {
+                    "label": "/sit",
+                    "command": "/sit"
+                },
+                {
+                    "label": "/lay",
+                    "command": "/lay"
+                },
+                {
+                    "label": "/dance",
+                    "command": "/dance"
+                },
+                {
+                    "label": "/laugh",
+                    "command": "/laugh"
+                },
+                {
+                    "label": "/cry",
+                    "command": "/cry"
+                },
+                {
+                    "label": "/shrug",
+                    "command": "/shrug"
+                },
+                {
+                    "label": "/zzz",
+                    "command": "/zzz"
+                },
+                {
+                    "label": "/help",
+                    "command": "/help"
+                },
+                {
+                    "label": "/respawn",
+                    "command": "/respawn"
+                },
+                {
+                    "label": "/store",
+                    "command": "/store"
+                },
+                {
+                    "label": "/shout",
+                    "command": "/shout ",
+                    "needs_text": true,
+                    "placeholder": "Message"
+                },
+                {
+                    "label": "/emote",
+                    "command": "/emote ",
+                    "needs_text": true,
+                    "placeholder": "Action"
+                },
+                {
+                    "label": "/friend",
+                    "command": "/friend ",
+                    "needs_text": true,
+                    "placeholder": "Username"
+                },
+                {
+                    "label": "/ignore",
+                    "command": "/ignore ",
+                    "needs_text": true,
+                    "placeholder": "Username"
+                }
+            ]
+        },
+        {
+            "id": "hotkeys",
+            "label": "Keys",
+            "icon": "⌘",
+            "commands": [
+                {
+                    "label": "Sector/Zone",
+                    "hotkey": [
+                        "ctrl",
+                        "shift",
+                        "h"
+                    ],
+                    "description": "Ctrl + Shift + H"
+                },
+                {
+                    "label": "Offer Ride",
+                    "hotkey": [
+                        "ctrl",
+                        "r"
+                    ],
+                    "description": "Ctrl + R"
+                }
+            ]
+        },
+        {
+            "id": "custom",
+            "label": "Custom",
+            "icon": "✎",
+            "commands": []
+        },
+        {
+            "id": "edgeextras",
+            "label": "Edge Extras",
+            "icon": "✦",
+            "commands": [
+                {
+                    "label": "Special thanks to TheChaz for these commands",
+                    "url": "https://www.hmph.us/",
+                    "description": "hmph.us"
+                },
+                {
+                    "label": "/actionbar /ab",
+                    "command": "/actionbar",
+                    "description": "Display ActionBar"
+                },
+                {
+                    "label": "/actionmode /am",
+                    "command": "/actionmode",
+                    "description": "Switch to Action Mode"
+                },
+                {
+                    "label": "/activity /flag",
+                    "command": "/activity",
+                    "description": "List an activity"
+                },
+                {
+                    "label": "/alltags /tags /allnames /names",
+                    "command": "/alltags",
+                    "description": "Show all visible nametags"
+                },
+                {
+                    "label": "/arcade",
+                    "command": "/arcade",
+                    "description": "Turn on arcade mode while track building"
+                },
+                {
+                    "label": "/auctions /auction /ac",
+                    "command": "/auctions",
+                    "description": "Open auctions page"
+                },
+                {
+                    "label": "/avsearch /avatar",
+                    "command": "/avsearch",
+                    "description": "Open avatar search page"
+                },
+                {
+                    "label": "/barrel",
+                    "command": "/barrel",
+                    "description": "Take out a barrel while track building"
+                },
+                {
+                    "label": "/bids",
+                    "command": "/bids",
+                    "description": "Open bid history page"
+                },
+                {
+                    "label": "/black",
+                    "command": "/black",
+                    "description": "Use default text color"
+                },
+                {
+                    "label": "/blog /blogs",
+                    "command": "/blog",
+                    "description": "Open blog page"
+                },
+                {
+                    "label": "/body",
+                    "command": "/body",
+                    "description": "Use body mirror view"
+                },
+                {
+                    "label": "/brightblue",
+                    "command": "/brightblue",
+                    "description": "Use bright blue text color"
+                },
+                {
+                    "label": "/brightgreen",
+                    "command": "/brightgreen",
+                    "description": "Use bright green text color"
+                },
+                {
+                    "label": "/brightred",
+                    "command": "/brightred",
+                    "description": "Use bright red text color"
+                },
+                {
+                    "label": "/brown",
+                    "command": "/brown",
+                    "description": "Use brown text color"
+                },
+                {
+                    "label": "/burgundy",
+                    "command": "/burgundy",
+                    "description": "Use burgundy text color"
+                },
+                {
+                    "label": "/cam",
+                    "command": "/cam",
+                    "description": "Toggle UserCam+"
+                },
+                {
+                    "label": "/changeme /cm /wear",
+                    "command": "/changeme",
+                    "description": "Open ChangeMe"
+                },
+                {
+                    "label": "/chatgroup /aj",
+                    "command": "/chatgroup",
+                    "description": "Toggle Auto-Join Chat Groups"
+                },
+                {
+                    "label": "/chathistory /log /ch",
+                    "command": "/chathistory",
+                    "description": "Open chat history"
+                },
+                {
+                    "label": "/colview",
+                    "command": "/colview",
+                    "description": "Show collisions"
+                },
+                {
+                    "label": "/commercehistory /th /thist",
+                    "command": "/commercehistory",
+                    "description": "Open transaction history page"
+                },
+                {
+                    "label": "/communicator /com",
+                    "command": "/communicator",
+                    "description": "Open Communicator"
+                },
+                {
+                    "label": "/compass /c /minimap",
+                    "command": "/compass",
+                    "description": "Open compass or minimap"
+                },
+                {
+                    "label": "/completed /compl",
+                    "command": "/completed",
+                    "description": "Open completed auctions page"
+                },
+                {
+                    "label": "/crate",
+                    "command": "/crate",
+                    "description": "Take out a crate while track building"
+                },
+                {
+                    "label": "/cruisecontrol /cc",
+                    "command": "/cruisecontrol",
+                    "description": "Toggle cruise control"
+                },
+                {
+                    "label": "/darkblue /blue",
+                    "command": "/darkblue",
+                    "description": "Use dark blue text color"
+                },
+                {
+                    "label": "/darkgreen /green",
+                    "command": "/darkgreen",
+                    "description": "Use dark green text color"
+                },
+                {
+                    "label": "/darkorange",
+                    "command": "/darkorange",
+                    "description": "Use dark orange text color"
+                },
+                {
+                    "label": "/darkred /red",
+                    "command": "/darkred",
+                    "description": "Use dark red text color"
+                },
+                {
+                    "label": "/darkyellow",
+                    "command": "/darkyellow",
+                    "description": "Use dark yellow text color"
+                },
+                {
+                    "label": "/date",
+                    "command": "/date",
+                    "description": "Say the current date"
+                },
+                {
+                    "label": "/designer /designs",
+                    "command": "/designer",
+                    "description": "Open developer auctions page"
+                },
+                {
+                    "label": "/dev",
+                    "command": "/dev",
+                    "description": "Open developer home page"
+                },
+                {
+                    "label": "/edge /ver /version",
+                    "command": "/edge",
+                    "description": "Open ThereEdge settings page"
+                },
+                {
+                    "label": "/emote /emotes",
+                    "command": "/emote",
+                    "description": "Turn on mimic emote mode"
+                },
+                {
+                    "label": "/events",
+                    "command": "/events",
+                    "description": "Open event schedule page"
+                },
+                {
+                    "label": "/exit",
+                    "command": "/exit",
+                    "description": "Exit There"
+                },
+                {
+                    "label": "/face",
+                    "command": "/face",
+                    "description": "Use face mirror view"
+                },
+                {
+                    "label": "/favorite /add",
+                    "command": "/favorite",
+                    "description": "Add favorite place"
+                },
+                {
+                    "label": "/finishgate /fg",
+                    "command": "/finishgate",
+                    "description": "Take out a finish gate while track building"
+                },
+                {
+                    "label": "/first",
+                    "command": "/first",
+                    "description": "Use first person view"
+                },
+                {
+                    "label": "/forcefield /ff /f",
+                    "command": "/forcefield",
+                    "description": "Toggle forcefield"
+                },
+                {
+                    "label": "/forum /forums",
+                    "command": "/forum",
+                    "description": "Open member fan sites page"
+                },
+                {
+                    "label": "/fps",
+                    "command": "/fps",
+                    "description": "Show FPS and PPS hud"
+                },
+                {
+                    "label": "/gate",
+                    "command": "/gate",
+                    "description": "Take out a gate while track building"
+                },
+                {
+                    "label": "/goto",
+                    "command": "/goto",
+                    "description": "Open real estate page"
+                },
+                {
+                    "label": "/grandstand /gs",
+                    "command": "/grandstand",
+                    "description": "Take out a grandstand gate while track building"
+                },
+                {
+                    "label": "/gray /grey",
+                    "command": "/gray",
+                    "description": "Use grey text color"
+                },
+                {
+                    "label": "/handsfree /hf",
+                    "command": "/handsfree",
+                    "description": "Toggle hands free"
+                },
+                {
+                    "label": "/happening /hn /now",
+                    "command": "/happening",
+                    "description": "Open Happening Now page"
+                },
+                {
+                    "label": "/help",
+                    "command": "/help",
+                    "description": "Open help page"
+                },
+                {
+                    "label": "/hide",
+                    "command": "/hide",
+                    "description": "Hide huds"
+                },
+                {
+                    "label": "/high /3",
+                    "command": "/high",
+                    "description": "Use high zoom view"
+                },
+                {
+                    "label": "/home",
+                    "command": "/home",
+                    "description": "Teleport to your home location"
+                },
+                {
+                    "label": "/ignore",
+                    "command": "/ignore",
+                    "description": "Open ignore dialog"
+                },
+                {
+                    "label": "/im",
+                    "command": "/im",
+                    "description": "Open IM dialog"
+                },
+                {
+                    "label": "/joinrace /join /race",
+                    "command": "/joinrace",
+                    "description": "Join the current race"
+                },
+                {
+                    "label": "/labels",
+                    "command": "/labels",
+                    "description": "Show object labels"
+                },
+                {
+                    "label": "/leaverace /lr /l",
+                    "command": "/leaverace",
+                    "description": "Leave the current race"
+                },
+                {
+                    "label": "/local /debug /localhost",
+                    "command": "/local",
+                    "description": "Open system cockpit page"
+                },
+                {
+                    "label": "/lod",
+                    "command": "/lod ",
+                    "description": "Adjust LOD distance delta",
+                    "needs_text": true,
+                    "placeholder": "Value"
+                },
+                {
+                    "label": "/logout /bye",
+                    "command": "/logout",
+                    "description": "Log out of There"
+                },
+                {
+                    "label": "/low /1",
+                    "command": "/low",
+                    "description": "Use low zoom view"
+                },
+                {
+                    "label": "/map",
+                    "command": "/map",
+                    "description": "Open map"
+                },
+                {
+                    "label": "/medium /2",
+                    "command": "/medium",
+                    "description": "Use medium zoom view"
+                },
+                {
+                    "label": "/music",
+                    "command": "/music",
+                    "description": "Toggle music"
+                },
+                {
+                    "label": "/mute",
+                    "command": "/mute",
+                    "description": "Mute audio"
+                },
+                {
+                    "label": "/myitems",
+                    "command": "/myitems",
+                    "description": "Open auction items page"
+                },
+                {
+                    "label": "/nearesttags /nearestnames",
+                    "command": "/nearesttags",
+                    "description": "Show 10 nearest nametags"
+                },
+                {
+                    "label": "/neartags /nearnames",
+                    "command": "/neartags",
+                    "description": "Show all nearby nametags"
+                },
+                {
+                    "label": "/nocolview",
+                    "command": "/nocolview",
+                    "description": "Hide collisions"
+                },
+                {
+                    "label": "/noemote /noemotes",
+                    "command": "/noemote",
+                    "description": "Turn off mimic emote mode"
+                },
+                {
+                    "label": "/nofps",
+                    "command": "/nofps",
+                    "description": "Hide FPS and PPS hud"
+                },
+                {
+                    "label": "/nolabels",
+                    "command": "/nolabels",
+                    "description": "Hide object labels"
+                },
+                {
+                    "label": "/noquality",
+                    "command": "/noquality",
+                    "description": "Use normal render settings"
+                },
+                {
+                    "label": "/nospeech",
+                    "command": "/nospeech",
+                    "description": "Hide speech waveform"
+                },
+                {
+                    "label": "/notags /nonames",
+                    "command": "/notags",
+                    "description": "Hide all nametags"
+                },
+                {
+                    "label": "/nozones",
+                    "command": "/nozones",
+                    "description": "Hide zone boundaries"
+                },
+                {
+                    "label": "/orange",
+                    "command": "/orange",
+                    "description": "Use orange text color"
+                },
+                {
+                    "label": "/organize /o",
+                    "command": "/organize",
+                    "description": "Open Organizer"
+                },
+                {
+                    "label": "/perf /pk",
+                    "command": "/perf",
+                    "description": "Open performance knob manager page"
+                },
+                {
+                    "label": "/photo /pic",
+                    "command": "/photo",
+                    "description": "Take photo"
+                },
+                {
+                    "label": "/pink",
+                    "command": "/pink",
+                    "description": "Use pink text color"
+                },
+                {
+                    "label": "/places",
+                    "command": "/places",
+                    "description": "Open real estate page"
+                },
+                {
+                    "label": "/profile /pf",
+                    "command": "/profile",
+                    "description": "Open profile page"
+                },
+                {
+                    "label": "/purple",
+                    "command": "/purple",
+                    "description": "Use purple text color"
+                },
+                {
+                    "label": "/quality",
+                    "command": "/quality",
+                    "description": "Use high performance render settings"
+                },
+                {
+                    "label": "/ramp",
+                    "command": "/ramp",
+                    "description": "Take out a ramp gate while track building"
+                },
+                {
+                    "label": "/random /rnd",
+                    "command": "/random",
+                    "description": "Say a random number"
+                },
+                {
+                    "label": "/record",
+                    "command": "/record",
+                    "description": "Record while track building"
+                },
+                {
+                    "label": "/results /rr",
+                    "command": "/results",
+                    "description": "Open race results"
+                },
+                {
+                    "label": "/review /reviews /r",
+                    "command": "/review",
+                    "description": "Open developer reviews page"
+                },
+                {
+                    "label": "/seller /sales",
+                    "command": "/seller",
+                    "description": "Open sales page"
+                },
+                {
+                    "label": "/settings",
+                    "command": "/settings",
+                    "description": "Open settings"
+                },
+                {
+                    "label": "/shop",
+                    "command": "/shop",
+                    "description": "Open Shop Central page"
+                },
+                {
+                    "label": "/show",
+                    "command": "/show",
+                    "description": "Show huds"
+                },
+                {
+                    "label": "/speech",
+                    "command": "/speech",
+                    "description": "Show speech waveform"
+                },
+                {
+                    "label": "/standard /0",
+                    "command": "/standard",
+                    "description": "Use standard view"
+                },
+                {
+                    "label": "/startgate /sg",
+                    "command": "/startgate",
+                    "description": "Take out a start gate while track building"
+                },
+                {
+                    "label": "/status /avman",
+                    "command": "/status",
+                    "description": "Open avman status page"
+                },
+                {
+                    "label": "/submissions /subs",
+                    "command": "/submissions",
+                    "description": "Open developer management tool"
+                },
+                {
+                    "label": "/summon /sm /get",
+                    "command": "/summon",
+                    "description": "Open summon dialog"
+                },
+                {
+                    "label": "/super /4",
+                    "command": "/super",
+                    "description": "Use super zoom view"
+                },
+                {
+                    "label": "/tbux /tb",
+                    "command": "/tbux",
+                    "description": "Open Therebucks purchase page"
+                },
+                {
+                    "label": "/teal",
+                    "command": "/teal",
+                    "description": "Use teal text color"
+                },
+                {
+                    "label": "/time /t /tt",
+                    "command": "/time",
+                    "description": "Say the current time"
+                },
+                {
+                    "label": "/tracks",
+                    "command": "/tracks",
+                    "description": "Open track management tool"
+                },
+                {
+                    "label": "/undo /goback",
+                    "command": "/undo",
+                    "description": "Undo last teleport"
+                },
+                {
+                    "label": "/unmute",
+                    "command": "/unmute",
+                    "description": "Unmute audio"
+                },
+                {
+                    "label": "/url",
+                    "command": "/url",
+                    "description": "Open the last URL typed in chat by anyone"
+                },
+                {
+                    "label": "/var",
+                    "command": "/var ",
+                    "description": "Set environment variable",
+                    "needs_text": true,
+                    "placeholder": "Name Value"
+                },
+                {
+                    "label": "/viewscale /vs",
+                    "command": "/viewscale ",
+                    "description": "Adjust view scale",
+                    "needs_text": true,
+                    "placeholder": "Scale"
+                },
+                {
+                    "label": "/voice /v",
+                    "command": "/voice",
+                    "description": "Toggle voice chat"
+                },
+                {
+                    "label": "/voicetrainer /vt",
+                    "command": "/voicetrainer",
+                    "description": "Open voice trainer page"
+                },
+                {
+                    "label": "/volume /vol",
+                    "command": "/volume",
+                    "description": "Open volume control"
+                },
+                {
+                    "label": "/weather",
+                    "command": "/weather",
+                    "description": "Toggle weather"
+                },
+                {
+                    "label": "/web",
+                    "command": "/web",
+                    "description": "Open the client browser"
+                },
+                {
+                    "label": "/whoami",
+                    "command": "/whoami",
+                    "description": "Say the avatar's name"
+                },
+                {
+                    "label": "/world /5",
+                    "command": "/world",
+                    "description": "Use world zoom view"
+                },
+                {
+                    "label": "/worldchat /wc",
+                    "command": "/worldchat",
+                    "description": "Open world chat"
+                },
+                {
+                    "label": "/xsl",
+                    "command": "/xsl",
+                    "description": "Open profile page without stylesheet"
+                },
+                {
+                    "label": "/yellow",
+                    "command": "/yellow",
+                    "description": "Use yellow text color"
+                },
+                {
+                    "label": "/zones",
+                    "command": "/zones",
+                    "description": "Show zone boundaries"
+                }
+            ]
+        },
+        {
+            "id": "bedican",
+            "label": "Bedican",
+            "icon": "⌖",
+            "commands": [
+                {
+                    "label": "Bedican Compass command source",
+                    "url": "https://www.bedican.co.uk/apps/compass/user-commands.html",
+                    "description": "bedican.co.uk"
+                },
+                {
+                    "label": "/utime",
+                    "command": "/utime",
+                    "description": "Display time in London"
+                },
+                {
+                    "label": "/utime {location}",
+                    "command": "/utime ",
+                    "needs_text": true,
+                    "placeholder": "Location",
+                    "description": "Display time in a location"
+                },
+                {
+                    "label": "/ignoring",
+                    "command": "/ignoring",
+                    "description": "Display how many ignores you have"
+                },
+                {
+                    "label": "/ignoring {avname}",
+                    "command": "/ignoring ",
+                    "needs_text": true,
+                    "placeholder": "Avatar name",
+                    "description": "Display ignores for avatar"
+                },
+                {
+                    "label": "/online {avname}",
+                    "command": "/online ",
+                    "needs_text": true,
+                    "placeholder": "Avatar name",
+                    "description": "Display if avatar is online"
+                },
+                {
+                    "label": "/weather",
+                    "command": "/weather",
+                    "description": "Display weather in London"
+                },
+                {
+                    "label": "/weather {location}",
+                    "command": "/weather ",
+                    "needs_text": true,
+                    "placeholder": "Location",
+                    "description": "Display weather in location"
+                },
+                {
+                    "label": "/rg /riot",
+                    "command": "/rg",
+                    "description": "Open Riot_Girl_1 sales"
+                },
+                {
+                    "label": "/guidelines /dg",
+                    "command": "/guidelines",
+                    "description": "Open developer guidelines"
+                },
+                {
+                    "label": "/submit /sub",
+                    "command": "/submit",
+                    "description": "Open developer submissions"
+                },
+                {
+                    "label": "/undotele",
+                    "command": "/undotele",
+                    "description": "Undo teleport"
+                },
+                {
+                    "label": "/schedule",
+                    "command": "/schedule",
+                    "description": "Open MySchedule"
+                },
+                {
+                    "label": "/decor",
+                    "command": "/decor",
+                    "description": "View decor"
+                },
+                {
+                    "label": "/schedule /sch /sc",
+                    "command": "/schedule",
+                    "description": "Open MySchedule"
+                },
+                {
+                    "label": "/devprice",
+                    "command": "/devprice",
+                    "description": "Open developer prices"
+                },
+                {
+                    "label": "/tagcolor /tagcolour",
+                    "command": "/tagcolor",
+                    "description": "Open nametag colour chooser"
+                },
+                {
+                    "label": "/spa",
+                    "command": "/spa",
+                    "description": "Open list of spa locations"
+                },
+                {
+                    "label": "/fr",
+                    "command": "/fr",
+                    "description": "Open pending friend requests"
+                },
+                {
+                    "label": "/history",
+                    "command": "/history",
+                    "description": "Open transaction history"
+                },
+                {
+                    "label": "/messagebar /mb",
+                    "command": "/messagebar",
+                    "description": "Open message bar"
+                },
+                {
+                    "label": "/scbar",
+                    "command": "/scbar",
+                    "description": "Open shortcut bar"
+                },
+                {
+                    "label": "/buy",
+                    "command": "/buy",
+                    "description": "Open page to buy more tbux"
+                },
+                {
+                    "label": "/pop",
+                    "command": "/pop",
+                    "description": "Open population chart"
+                }
+            ]
+        },
+        {
+            "id": "autodance",
+            "label": "Auto Dance",
+            "icon": "♫",
+            "commands": []
+        }
+    ],
+    "dance_loop_default": false,
+    "show_tooltips": true,
+    "always_on_top": true,
+    "custom_buttons": [
+        {
+            "label": "Custom 1",
+            "command": "'wave",
+            "target_tab": "custom"
+        },
+        {
+            "label": "Say Hi",
+            "command": "hi",
+            "target_tab": "custom"
+        }
+    ],
+    "builder_geometry": "",
+    "show_edge_extras": true,
+    "show_bedican_compass": true,
+    "hide_dance_text": false,
+    "hidden_tabs": [],
+    "topmost_mode": "always",
+    "hide_button_emote_text": false,
+    "tutorial_seen": false,
+    "show_admin_warning": true,
+    "enabled": true,
+    "show_tutorial_on_start": true
+}

@@ -1,0 +1,17 @@
+{
+    "hide_dance_text": false,
+    "show_tooltips": true,
+    "always_on_top": true,
+    "builder_geometry": "",
+    "hidden_tabs": [],
+    "topmost_mode": "always",
+    "hide_button_emote_text": false,
+    "tutorial_seen": false,
+    "show_admin_warning": true,
+    "enabled": true,
+    "show_tutorial_on_start": true,
+    "giggles_options": {
+        "follow_avatar_name": "",
+        "follow_avatar_names": []
+    }
+}
