@@ -5,8 +5,7 @@ TQA is your one stop shop for all your quick key and dancing needs!
 made to replicate a seemless look for There.com and add quick commands for all of the fun text options you always forget about :)
 
 
-# DOWNLOAD IT HERE: https://drive.google.com/drive/folders/1seYBAbBJYrCLnc40rCUF6rnX97YaJnp1?usp=sharing 
-(the exe is too big for git im sorry) :(
+# DOWNLOAD IT HERE: https://github.com/Landminegirl/ThereQuickActions/releases/tag/v1.1 (or click on release on the right)
 
 <img width="766" height="1017" alt="image" src="https://github.com/user-attachments/assets/c8b26f94-7fc9-4297-8709-d81f71c8604d" />
 
