@@ -1,3 +1,6 @@
+# JOIN THE DISCORD FOR ALL UPDATES TO TOOLS https://discord.gg/UZFnJvHspC
+
+
 <img width="512" height="512" alt="TQA" src="https://github.com/user-attachments/assets/9d620e0c-6325-4df8-b515-6d29b935ef7d" />
 
 # ThereQuickActions
